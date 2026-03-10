@@ -1,5 +1,3 @@
-Here is the clean README in pure Markdown so you can copy-paste directly into README.md on GitHub.
-
 # WGAN-based Data Reconstruction Attack (GLASS)
 
 This repository contains the implementation and experiments for **WGAN-based Data Reconstruction Attack (GLASS)**, a GAN-driven method for reconstructing private data from **Split Inference (SI)** systems.
